@@ -6,7 +6,7 @@ This analysis has been implemented by following steps:
 (1) create null/alternative hypothesis; setting a significance level $\alpha=0.05$
 (2) visualization data; evaluating the distribution of women/men hiking minutes; 
 the histogram of biking length by gender;plot the fraction of normalized biking length by gender
-(3) using z test to deny null pothesis; check the effect size
+(3) using z test to -deny- _falsify_ null hypothesis; (4) check the effect size
 
 
 
