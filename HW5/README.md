@@ -1,4 +1,6 @@
 1. what the homework was about in your own words?
+
+
 Firstly, I have read in electoral precinct geojson file in geopandas and voter turnout data.
 By merging the turnout data with the electoral map, i have plot coropleth maps
 of the population by electoral precinct, votes by precinct, and people density.
@@ -11,10 +13,11 @@ Then, I have plot the model over the data and also make an influce plot for each
 At last, i have compared the models with the Likelihood Ration test 
 and the result indicates that the more complex model is better when evaluating the relationship between population and votes in DE.
 
-2. who you worked with
+2. who you worked with?
+
 I worked this assignment on my own.
 
-3. what things were you responsible
+3. what things were you responsible?
 All (^.^)
 
 
